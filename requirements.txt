@@ -1,0 +1,5 @@
+argparse
+Pillow
+PyPDF2
+docx2pdf
+comtypes
